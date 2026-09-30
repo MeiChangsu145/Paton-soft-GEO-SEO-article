@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴顿软文/GEO/SEO文章"
+  short_description: "为巴顿撰写品牌软文与 GEO SEO 文章"
+  default_prompt: "使用 $barton-soft-geo-seo-article，基于我提供的主题和资料撰写巴顿软文/GEO/SEO文章。"
